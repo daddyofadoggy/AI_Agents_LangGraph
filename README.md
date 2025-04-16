@@ -26,4 +26,5 @@ Here is the workflow:
 * Lesson 6: Essay_writing_critique.ipynb
 
 # Resources
+* [React pattern](https://til.simonwillison.net/llms/python-react-pattern)
 
